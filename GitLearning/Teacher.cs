@@ -4,6 +4,6 @@
 	{
 		public int Id { get; set; }
 		public string TeacherName { get; set; }
-		public string subjects { get; set; }
+		public string subject { get; set; }
 	}
 }
